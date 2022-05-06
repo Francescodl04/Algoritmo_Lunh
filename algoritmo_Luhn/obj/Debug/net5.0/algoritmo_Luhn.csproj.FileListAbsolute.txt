@@ -1,0 +1,16 @@
+E:\4F A.S. 2021-2022\algoritmo_Luhn\algoritmo_Luhn\bin\Debug\net5.0\algoritmo_Luhn.exe
+E:\4F A.S. 2021-2022\algoritmo_Luhn\algoritmo_Luhn\bin\Debug\net5.0\algoritmo_Luhn.deps.json
+E:\4F A.S. 2021-2022\algoritmo_Luhn\algoritmo_Luhn\bin\Debug\net5.0\algoritmo_Luhn.runtimeconfig.json
+E:\4F A.S. 2021-2022\algoritmo_Luhn\algoritmo_Luhn\bin\Debug\net5.0\algoritmo_Luhn.runtimeconfig.dev.json
+E:\4F A.S. 2021-2022\algoritmo_Luhn\algoritmo_Luhn\bin\Debug\net5.0\algoritmo_Luhn.dll
+E:\4F A.S. 2021-2022\algoritmo_Luhn\algoritmo_Luhn\bin\Debug\net5.0\ref\algoritmo_Luhn.dll
+E:\4F A.S. 2021-2022\algoritmo_Luhn\algoritmo_Luhn\bin\Debug\net5.0\algoritmo_Luhn.pdb
+E:\4F A.S. 2021-2022\algoritmo_Luhn\algoritmo_Luhn\obj\Debug\net5.0\algoritmo_Luhn.csproj.AssemblyReference.cache
+E:\4F A.S. 2021-2022\algoritmo_Luhn\algoritmo_Luhn\obj\Debug\net5.0\algoritmo_Luhn.GeneratedMSBuildEditorConfig.editorconfig
+E:\4F A.S. 2021-2022\algoritmo_Luhn\algoritmo_Luhn\obj\Debug\net5.0\algoritmo_Luhn.AssemblyInfoInputs.cache
+E:\4F A.S. 2021-2022\algoritmo_Luhn\algoritmo_Luhn\obj\Debug\net5.0\algoritmo_Luhn.AssemblyInfo.cs
+E:\4F A.S. 2021-2022\algoritmo_Luhn\algoritmo_Luhn\obj\Debug\net5.0\algoritmo_Luhn.csproj.CoreCompileInputs.cache
+E:\4F A.S. 2021-2022\algoritmo_Luhn\algoritmo_Luhn\obj\Debug\net5.0\algoritmo_Luhn.dll
+E:\4F A.S. 2021-2022\algoritmo_Luhn\algoritmo_Luhn\obj\Debug\net5.0\ref\algoritmo_Luhn.dll
+E:\4F A.S. 2021-2022\algoritmo_Luhn\algoritmo_Luhn\obj\Debug\net5.0\algoritmo_Luhn.pdb
+E:\4F A.S. 2021-2022\algoritmo_Luhn\algoritmo_Luhn\obj\Debug\net5.0\algoritmo_Luhn.genruntimeconfig.cache
